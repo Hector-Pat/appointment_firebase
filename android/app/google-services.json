@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470129099431",
+    "project_id": "appointment-firebase-app",
+    "storage_bucket": "appointment-firebase-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470129099431:android:cce4e12ca069e87fd6d182",
+        "android_client_info": {
+          "package_name": "com.example.appointment_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNfznBpR0OnE1fzsd0EYZoHXranf12gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
